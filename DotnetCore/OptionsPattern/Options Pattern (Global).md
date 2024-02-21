@@ -1,3 +1,10 @@
+---
+tags:
+  - options_pattern
+  - dotnet_core
+---
+
+
 From the last section [[Options Pattern (Local)]] we had the following data.
 
 ```json

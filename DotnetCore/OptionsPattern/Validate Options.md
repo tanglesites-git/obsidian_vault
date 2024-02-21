@@ -1,3 +1,10 @@
+---
+tags:
+ - options_pattern
+ - dotnet_core
+---
+
+
 ### Configuration Value
 
 ```json

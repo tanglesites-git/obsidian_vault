@@ -1,3 +1,9 @@
+---
+tags:
+  - options_pattern
+  - dotnet_core
+---
+
 ## Options Pattern
 > When you want to bind a POCO to a configuration value in one of the common configuration files: appsettings.json, appsettings.Development.json or UserSecrets. 
 
